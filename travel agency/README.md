@@ -100,13 +100,6 @@
 
 ---
 
-## 📷 Screenshots
-
-*(Add relevant screenshots of the homepage, dashboard, and other key features.)*
-
----
-
-
 
 ## 📄 License
 
