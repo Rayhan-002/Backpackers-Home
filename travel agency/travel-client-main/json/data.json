@@ -1,0 +1,20 @@
+[
+    {
+        "location": "Dhaka",
+        "details": "Good Place",
+        "price": 60,
+        "imgURL": "../images/p-1.jpg"
+    },
+    {
+        "location": "Rajshahi",
+        "details": "Good Place",
+        "price": 90,
+        "imgURL": "../images/p-2.jpg"
+    },
+    {
+        "location": "Kushtia",
+        "details": "Good Place",
+        "price": 280,
+        "imgURL": "../images/p-3.jpg"
+    }
+]
